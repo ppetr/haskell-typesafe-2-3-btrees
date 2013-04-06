@@ -4,6 +4,8 @@ Using [GADTs](http://www.haskell.org/haskellwiki/GADT) and [type-level natural
 numbers](http://www.haskell.org/haskellwiki/Type_arithmetic) we statically
 ensure that any tree instance is well balanced.
 
+Deletion is yet unimplemented.
+
 # Distributed under BSD-3 License
 
 Copyright (c) 2013, Petr Pudlák
